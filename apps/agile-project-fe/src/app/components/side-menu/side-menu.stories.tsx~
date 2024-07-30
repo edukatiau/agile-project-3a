@@ -1,5 +1,0 @@
-import {SideMenu} from './SideMenu'
-
-export default {
-  component: SideMenu,
-}
